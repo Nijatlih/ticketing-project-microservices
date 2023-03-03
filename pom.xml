@@ -9,6 +9,9 @@
     <modules>
         <module>app-domain-model</module>
         <module>user-service</module>
+        <module>project-service</module>
+        <module>task-service</module>
+        <module>app-client-management</module>
     </modules>
 
     <parent>
